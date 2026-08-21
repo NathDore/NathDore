@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nathaniel 👋
 
-<!--
-**NathDore/NathDore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student (Baccalauréat) on the path to becoming an AI engineer. I build web apps, solo and in teams.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [aldwino](https://github.com/YOUR_USERNAME/aldwino)
+A calendar and planning app I built and use myself to stay organized and boost my productivity at university.
+Built with **React** and **TypeScript**.
+
+## 🛠️ Languages & Tools
+
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+
+## 📫 Contact
+
+- Email: nathprogtravail@gmail.com
+- GitHub: [@NathDore](https://github.com/NathDore)

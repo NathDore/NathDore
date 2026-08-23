@@ -4,7 +4,7 @@ CS student (Baccalauréat) on the path to becoming an AI engineer. I build web a
 
 ## 🚀 Projects
 
-### [aldwino](https://github.com/YOUR_USERNAME/aldwino)
+### [aldwino](https://github.com/NathDore/aldwino)
 A calendar and planning app I built and use myself to stay organized and boost my productivity at university.
 Built with **React** and **TypeScript**.
 

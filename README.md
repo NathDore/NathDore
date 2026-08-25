@@ -1,14 +1,14 @@
-# Hi, I'm Nathaniel 👋
+# Hi, I'm Nathaniel
 
 CS student (Baccalauréat) on the path to becoming an AI engineer. I build web apps, solo and in teams.
 
-## 🚀 Projects
+## Projects
 
 ### [aldwino](https://github.com/NathDore/aldwino)
 A calendar and planning app I built and use myself to stay organized and boost my productivity at university.
 Built with **React** and **TypeScript**.
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)

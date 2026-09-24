@@ -1,12 +1,6 @@
 # Hi, I'm Nathaniel
 
-CS student (Baccalauréat) on the path to becoming an AI engineer. I build web apps, solo and in teams.
-
-## Projects
-
-### [aldwino](https://github.com/NathDore/aldwino)
-A calendar and planning app I built and use myself to stay organized and boost my productivity at university.
-Built with **React** and **TypeScript**.
+CS student (Baccalauréat). I build web apps, solo and in teams.
 
 ## Languages & Tools
 
